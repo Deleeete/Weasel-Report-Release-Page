@@ -1,5 +1,3 @@
-# Weasel Report信息发布页
-
 ## [下载](./download.md)
 #### 当前版本：v0.2.0
 
