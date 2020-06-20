@@ -1,17 +1,10 @@
 # 下载
 ## > 可执行文件
-### [Windows-x86 （32位）](./download/x86.exe)
-### [Windows-x64 （64位）](./download/x64.exe)
+### [Windows-x86 （32位）](./download/weasel-report-x86.exe)
+### [Windows-x64 （64位）](./download/weasel-report-x64.exe)
 
 <br><br>
 
-## > 压缩包
-### [Windows-x86-64 （内含32位与64位）](./download/x86-64.zip)
-
-<br><br>
-
-## > 自解压文件
-### [Windows-x86-64 （内含32位与64位）](./download/x86-64.exe)
 
 <br><br>
 
